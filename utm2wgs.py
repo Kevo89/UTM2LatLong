@@ -1,5 +1,5 @@
 #----------------------------
-# NAD83 to WGS84 Converter  #
+#   UTM to WGS84 Converter  #
 #       Python Version      #
 #----------------------------
 # Adapted from Node-coordinator Project (https://github.com/beatgammit/node-coordinator)
